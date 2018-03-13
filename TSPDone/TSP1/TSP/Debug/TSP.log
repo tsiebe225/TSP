@@ -1,0 +1,6 @@
+﻿  main.cpp
+z:\csci 406\tsp1\tsp\main.cpp(51): warning C4018: '<': signed/unsigned mismatch
+z:\csci 406\tsp1\tsp\main.cpp(62): warning C4018: '<': signed/unsigned mismatch
+z:\csci 406\tsp1\tsp\main.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  TSP.vcxproj -> Z:\CSCI 406\TSP1\Debug\TSP.exe
+  TSP.vcxproj -> Z:\CSCI 406\TSP1\Debug\TSP.pdb (Partial PDB)

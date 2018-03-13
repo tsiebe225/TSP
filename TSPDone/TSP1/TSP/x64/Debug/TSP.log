@@ -1,0 +1,5 @@
+﻿  main.cpp
+z:\csci 406\tsp1\tsp\main.cpp(129): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+z:\csci 406\tsp1\tsp\main.cpp(119): warning C4101: 'num': unreferenced local variable
+  TSP.vcxproj -> Z:\CSCI 406\TSP1\x64\Debug\TSP.exe
+  TSP.vcxproj -> Z:\CSCI 406\TSP1\x64\Debug\TSP.pdb (Partial PDB)
